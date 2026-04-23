@@ -1,3 +1,5 @@
+
+*Nuria ʕ•́ᴥ•̀ʔ*
 ## Technical Stack
 
 <div align="center">
