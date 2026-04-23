@@ -1,4 +1,3 @@
-## Hi there
 ## Technical Stack
 
 <div align="center">
