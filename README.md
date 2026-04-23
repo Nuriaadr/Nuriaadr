@@ -1,5 +1,9 @@
 
 # Nuria ʕ•ᴥ•ʔ 
+
+[!NOTE](Hi I'm Nuria)
+
+
 ## Technical Stack
 
 <div align="center">
