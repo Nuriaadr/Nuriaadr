@@ -1,7 +1,7 @@
 
 # Nuria ʕ•ᴥ•ʔ 
 
-Hi I'm Nuria
+
 
 
 ## Technical Stack
